@@ -41,9 +41,9 @@ plt.plot(x,ypred,color='Blue')
 plt.show()
 ```
 ## Output
-![Screenshot (13)](https://user-images.githubusercontent.com/121040764/214057115-04c7fe37-9b25-4ea5-9e4d-88380fb73806.png)
-</br>
-![Screenshot (14)](https://user-images.githubusercontent.com/121040764/214057311-d54d82da-4d0c-4c5a-9f0d-56d187ae86a8.png)
+![Screenshot from 2023-01-24 23-02-36](https://user-images.githubusercontent.com/121040764/214367691-523f99cf-1dd8-4082-8930-b1954e553c38.png)
+<br>
+![Screenshot from 2023-01-24 23-03-21](https://user-images.githubusercontent.com/121040764/214367756-bf539b0f-4e17-49fc-bf99-10675a712b63.png)
 
 
 ## Result
